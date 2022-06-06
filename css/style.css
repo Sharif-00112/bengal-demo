@@ -22,9 +22,9 @@ footer{
     margin-left: 30px;
 }
 
-.myNavbar{
+/* .myNavbar{
     
-}
+} */
 #myVideo {
     /* position: absolute; */
     right: 0;
@@ -39,5 +39,13 @@ footer{
     color: #f1f1f1;
     width: 100%;
     padding-bottom: 150px;
+}
+.btn-custom{
+    background-color: #0070ba;
+    color: #f1f1f1;
+    font-size: 15px;
+    padding: 17px 24px;
+    border-radius: 10px;
+    border: 0;
 }
   
